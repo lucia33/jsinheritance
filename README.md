@@ -42,7 +42,7 @@ If you understand them completely - you have done, if not - below is a more deta
 * Object property can hold a _value_ or _reference_ to another object or function
 * Functions are also objects, but of special type
 * Any function can be invoked as a constructor, but this doesn't mean it *should* be invoked as a constructor
-* Functions, which are intended to be used as constructors, just called `constructor functions`. Tey have to be invoked with a `new` keyword to construct a new object
+* Functions, which are intended to be used as constructors, just called `constructor functions`. They have to be invoked with a `new` keyword to construct a new object
 * By convention, constructor functions are named with `PascalCase`, all other functions are named with `camelCase`
 * Function in JavaScript is a main force. It can be used as:
   * a function
